@@ -1,5 +1,4 @@
-#[10:16 pm, 14/11/2026] ~Nani"": ESP32-based web monitoring system for solar battery voltage and current with ThingSpeak cloud data logging.
-[11:19 pm, 14/11/2026] ~Nani"": ESP32-Based Solar Battery Voltage and Current Monitoring System
+# ESP32-based web monitoring system for solar battery voltage and current with ThingSpeak cloud data logging.
 
 Project Overview
 
